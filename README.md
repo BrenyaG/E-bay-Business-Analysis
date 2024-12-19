@@ -30,8 +30,9 @@ Pinpoint geographical regions with significant return rates.
 Investigate seasonality trends affecting return rates.
 Provide actionable recommendations to stakeholders to reduce returns.
 
-Key Insights and Recommendations
+DATA VISUALIZATION
 
+[(https://public.tableau.com/app/profile/brenya.griffin/viz/SuperstoreReturnAnalysisProject/Story1)]
 
 Correlation Between Sales and Returns
 INSIGHT
