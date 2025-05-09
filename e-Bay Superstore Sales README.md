@@ -47,6 +47,7 @@ Address product durability and customer feedback for positively correlated categ
 **High-Return Product Subcategories**
 
 **Insight**
+
 Top 3 Subcategories with Returns: Machines, fasteners, and chairs.
 Lowest Return Subcategories: Art, labels, and envelopes.
 **Recommendations**:
