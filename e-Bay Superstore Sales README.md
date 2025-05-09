@@ -75,12 +75,15 @@ Enhance quality control and customer service during peak return months.
 Implement targeted campaigns promoting low-return categories.
 
 
-Tools and Technologies
+**Tools and Technologies**
+
 Data Visualization: Tableau
 
-Results
+**Results**
+
 The results of this analysis provide actionable insights into reducing return rates at the superstore, improving customer satisfaction, and optimizing inventory management.
 
 
-License
+**License**
+
 This project is licensed under the MIT License - see the LICENSE file for details.
