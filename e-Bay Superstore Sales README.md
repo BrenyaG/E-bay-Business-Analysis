@@ -28,14 +28,14 @@ The primary objectives of this analysis are to:
 4.  Investigate seasonality trends affecting return rates.
 5.  Provide actionable recommendations to stakeholders to reduce returns.
 
-**DATA VISUALIZATION**
+**Data Visualization**
 
 [(https://public.tableau.com/app/profile/brenya.griffin/viz/SuperstoreReturnAnalysisProject/Story1)]
 
 
 **Correlation Between Sales and Returns**
 
-**INSIGHT**
+**Insight**
 
 Negative Correlations: Categories like accessories, art, bookcases, fasteners, machines, and supplies showed a disconnect between sales and returns.
 Positive Correlations: Categories like appliances, chairs, and copiers demonstrated a higher return rate as sales increased.
@@ -46,8 +46,7 @@ Address product durability and customer feedback for positively correlated categ
 
 **High-Return Product Subcategories**
 
-**INSIGHT**
-
+**Insight**
 Top 3 Subcategories with Returns: Machines, fasteners, and chairs.
 Lowest Return Subcategories: Art, labels, and envelopes.
 **Recommendations**:
@@ -57,7 +56,7 @@ Leverage low-return categories to build customer trust.
 
 **Geographical Analysis**
 
-**INSIGHT**
+**Insight**
 
 High-Return Regions: California, Utah, Oregon, and Washington.
 **Recommendations**:
@@ -67,7 +66,7 @@ Replicate Oregon’s success factors in other regions.
 
 **Seasonality Trends**
 
-**INSIGHT**
+**Insight**
 
 Months with High Returns: August, September, October, and December.
 **Recommendations**:
