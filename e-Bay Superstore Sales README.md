@@ -58,6 +58,7 @@ Leverage low-return categories to build customer trust.
 **Geographical Analysis**
 
 **INSIGHT**
+
 High-Return Regions: California, Utah, Oregon, and Washington.
 **Recommendations**:
 Focus quality control efforts on California and Washington.
@@ -67,6 +68,7 @@ Replicate Oregon’s success factors in other regions.
 **Seasonality Trends**
 
 **INSIGHT**
+
 Months with High Returns: August, September, October, and December.
 **Recommendations**:
 Enhance quality control and customer service during peak return months.
